@@ -7,5 +7,7 @@ Python Management Tools
 
 ## Usage
 
-`$ docker pull iriya/ml-anaconda`
-`$ docker run -t -i -d iriya/ml-anaconda /bin/bash`
+```
+$ docker pull iriya/ml-anaconda
+$ docker run -t -i -d iriya/ml-anaconda /bin/bash
+```
