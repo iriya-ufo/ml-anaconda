@@ -11,3 +11,9 @@ Python Management Tools
 $ docker pull iriya/ml-anaconda
 $ docker run -t -i -d iriya/ml-anaconda /bin/bash
 ```
+
+## If you want to build an image
+
+```
+$ docker build -t your-name/ml-anaconda .
+```
